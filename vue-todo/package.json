@@ -10,6 +10,9 @@
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
   },
   "dependencies": {
+    "npm": "^6.1.0",
+    "to": "^0.2.9",
+    "update": "^0.7.4",
     "vue": "^2.5.11"
   },
   "browserslist": [
